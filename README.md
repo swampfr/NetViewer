@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/XYZ123/netviewer-preview.png" width="80%">
+<img align="center" src="https://i.ibb.co/G3k5887D/image.png" width="80%">
 
 <h1 align="center">NetViewer - Experimental CMD Network Utility</h1>
 
